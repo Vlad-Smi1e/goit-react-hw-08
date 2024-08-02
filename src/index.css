@@ -1,0 +1,21 @@
+:root {
+  font-family: "Roboto", sans-serif;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 365px;
+  min-height: 100vh;
+  padding: 0 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
